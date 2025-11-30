@@ -1,7 +1,7 @@
 # Employee-Attendance-System
-CH SUNIL KUMAR
+CH SUNIL KUMAR--
 VIGNANS LARA INSTITUTE OF TECHNOLOGY AND SCIENCE(B.TECH-CSD)
-CONTACT NO:7674935014
+--CONTACT NO:7674935014
 
 A secure MERN-based Employee Attendance System that uses IP validation to ensure authentic logins and prevent proxy attendance marking.
 The Employee Attendance System is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack.
@@ -165,4 +165,5 @@ This project is open-source. You can modify and use it freely for learning or or
 CH SUNIL KUMAR
 VIGNANS LARA INSTITUTE OF TECHNOLOGY AND SCIENCE(B.TECH-CSD)
 CONTACT NO:7674935014
+
 
